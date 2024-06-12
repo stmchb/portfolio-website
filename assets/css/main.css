@@ -747,7 +747,7 @@ body {
 
 
 .header {
-  background-color: black;
+  background-color: rgb(0, 0, 0);
 }
 
 .nav__menu .nav__list .nav__item a:hover {
@@ -763,6 +763,7 @@ body {
 }
 
 .hero__title,
+.about__title,
 .section__title,
 .hero__info-number,
 .ri-briefcase-fill,
